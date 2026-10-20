@@ -1,0 +1,15 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="DatumJMBG/DatumJMBG.vcxproj" Id="598c9d94-8b3b-4d13-a587-87fbba999d16" />
+  <Project Path="DvodimenzionalnoPolje/DvodimenzionalnoPolje.vcxproj" Id="d7b83848-5e73-4b7e-a961-c26cf4b72b89" />
+  <Project Path="Malloc/Malloc.vcxproj" Id="bc66d0d8-2064-4917-8312-30c36c27fb7e" />
+  <Project Path="MallocMatrica/MallocMatrica.vcxproj" Id="b631fb5e-5194-4c4f-92fc-de8f447e77cc" />
+  <Project Path="Pokazivaci/Pokazivaci.vcxproj" Id="cbe9689d-3fc6-46f9-90ae-5bf66ece11cf" />
+  <Project Path="PoljeJePokazivac/PoljeJePokazivac.vcxproj" Id="e671fff3-6785-473d-b3b1-2db3b8114c63" />
+  <Project Path="PoljePokazivaca/PoljePokazivaca.vcxproj" Id="ac723857-bd28-4e2c-a2c5-282cd334df2f" />
+  <Project Path="Porez/Porez.vcxproj" Id="3901a111-f948-4bf9-9237-eaafd102ab2d" />
+  <Project Path="Realloc/Realloc.vcxproj" Id="7e967707-a752-44cd-973f-5c399f8ddbdd" />
+</Solution>
